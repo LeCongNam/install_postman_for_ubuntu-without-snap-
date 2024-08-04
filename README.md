@@ -2,7 +2,10 @@
 Toturial install Postman on Ubuntu and create shortcut icon
 
 # Goal
-[Postman](https://www.postman.com/) is a usefull app to build and test APIs, most commonly installed on ubuntu-like systems via snap. On recent distributions of Linux Mint (20 and above), snap installs are no longer possible. The instructions below show how to install Postman via the terminal.
+[Postman](https://www.postman.com/) is a usefull app to build and test APIs, most commonly installed on ubuntu-like systems via snap. On recent distributions of Linux Mint (20 and above), snap installs are no longer possible. 
+The instructions below show how to install Postman via the terminal.
+NOTE: why you should be used this toturial? 
+- Beacause if you install with snap, cursor is very ```BAD```. It look do not like usual T.T 
 
 ### Download Postman
 `$ wget https://dl.pstmn.io/download/latest/linux64 -O postman.tar.gz`
